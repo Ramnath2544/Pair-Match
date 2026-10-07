@@ -1,4 +1,4 @@
-# 🧠 Memory Match Game
+# 🧠 Pair Match Game
 
 > A fun, interactive and visually engaging **Memory Card Matching Game** built with pure **HTML, CSS and JavaScript**.
 
